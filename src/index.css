@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
+  background-color: #e7e7e7;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@keyframes rotate {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(180deg);
+  }
+}
+.rotateCard {
+  animation: rotate 500ms ease-in-out forwards;
 }

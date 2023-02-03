@@ -1,0 +1,72 @@
+{ "AllCards":
+    [ 
+        {
+            "poder": 1,
+            "img": "1.png"
+        },
+        {
+            "poder": -1,
+            "img": "2.png"
+        },
+        {
+            "poder": -2,
+            "img": "3.png"
+        },
+        {
+            "poder": 3,
+            "img": "4.png"
+        },
+        {
+            "poder": -3,
+            "img": "5.png"
+        },
+        {
+            "poder": 4,
+            "img": "6.png"
+        },
+        {
+            "poder": -4,
+            "img": "7.png"
+        },
+        {
+            "poder": -5,
+            "img": "8.png"
+        },
+        {
+            "poder": 6,
+            "img": "9.png"
+        },
+        {
+            "poder": -6,
+            "img": "10.png"
+        },
+        {
+            "poder": 8,
+            "img": "11.png"
+        },
+        {
+            "poder": -8,
+            "img": "12.png"
+        },
+        {
+            "poder": 10,
+            "img": "13.png"
+        },
+        {
+            "poder": -10,
+            "img": "14.png"
+        },
+        {
+            "poder": 12,
+            "img": "15.png"
+        },
+        {
+            "poder": 15,
+            "img": "16.png"
+        },
+        {
+            "poder": 20,
+            "img": "17.png"
+        }
+    ]
+}
